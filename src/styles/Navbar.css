@@ -1,0 +1,11 @@
+.Navbar {
+  background-color: #f55a5a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.Navbar img {
+  margin-right: 20px;
+}
